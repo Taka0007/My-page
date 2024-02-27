@@ -10,3 +10,7 @@ aux_links:
 
 # For copy button on code
 enable_copy_code_button: true
+
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
