@@ -15,6 +15,19 @@ enable_copy_code_button: true
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
+# ナビゲーション設定
+nav:
+  - title: 自己紹介
+    url: /about/
+  - title: スキル
+    url: /skills/
+  - title: 実績
+    url: /projects/
+  - title: 読んだ論文まとめ
+    url: /papers/
+  - title: GitHub レポジトリ
+    url: /repositories/
+    
 
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
